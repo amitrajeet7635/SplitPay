@@ -14,6 +14,9 @@ The **PaymentSplitter** smart contract allows for the automatic distribution of 
 2. 📤 When `distribute()` is called, the contract calculates each recipient's share based on the predefined percentages.
 3. 💸 The Ether is then transferred to each recipient accordingly.
 
+## 📜 Contract Address
+- 📌 **Deployed At:** `0x072a66fF61eDeC4CeBA08F3Df2C72f4364d72432`
+
 ## 📝 Code Explanation
 - 📌 The `recipients` array stores three hardcoded payable addresses.
 - 📌 The `shares` array defines the corresponding percentage allocation.
